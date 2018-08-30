@@ -1,5 +1,5 @@
 # English-Numeric
 It displays an integer in English Words.
-For ex:
+For example,
   i/p: 123
   o/p: one hundred and twenty three
